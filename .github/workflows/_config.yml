@@ -1,0 +1,47 @@
+# Site
+repository: https://github.com/jum94kr/jum94kr.github.io
+# favicon: images/favicon.ico
+
+# Personal info
+name: HONG CHANG (TYLER) AN  
+title: Network Engineer 
+email: jum94kr@gmail.com
+website: jum94kr.github.io
+Phone: +82 10 5801 5164
+
+# Social links
+github_username:  jum94kr
+linkedin_username: hongchangan
+
+# About Section
+# about_title: About Me
+about_profile_image: images/myprofile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  I'm a Network Engineer with 2 years of experience designing and deploying secure VPN networks across on-premise and cloud environments. I focus on building stable, scalable infrastructure and solving real-world problems through hands-on work. I believe in learning by doing and continuously improving through practical experience.
+
+
+# Education Section
+# educaton_title: Education
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+
+
+
+  
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag

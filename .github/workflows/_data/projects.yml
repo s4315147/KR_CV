@@ -1,0 +1,44 @@
+
+- layout: left
+  name: "AWS AutoConnect"
+  link: https://aws-vpc-api.vercel.app/
+  github: https://github.com/jum94kr/aws_vpc_api
+  quote: ""
+  description: >
+    온프레미스 ↔ AWS 간 IPsec VPN 자동 구성 도구 개발.<br><br>
+    <strong>기여한 내용</strong><br>
+      <p>• 클릭 한 번으로 설정 완료, 수동 구성 제거</p>
+      <p>• Cross Account IAM 구조로 보안 API 연동</p>
+      <p>• 파라미터 정의 및 자동화 로직 설계, 테스트 수행</p>
+
+- layout: left
+  name: "Cloud VPN Throughput Test"
+  quote: ""
+  description: >
+    AWS, Azure, GCP 클라우드 환경에서 VPN 성능 테스트 환경 구축.<br><br>
+    <strong>기여한 내용</strong><br>
+      <p>• VPN, 방화벽, SSLVPN 성능 비교</p>
+      <p>• Routing/NACL/VPC 구성</p>
+      <p>• Spirent 기반 Throughput 측정 및 자동화</p>
+
+- layout: left
+  name: "7-ELEVEN – DR 센터 구축"
+  quote: ""
+  description: >
+    7-ELEVEN 전국 매장의 장애 대응용 DR 센터 구축.<br><br>
+    <strong>기여한 내용</strong><br>
+      <p>• 장애 시 자동 전환 구조 설계</p>
+      <p>• 전국 매장과 VPN 터널 연결</p>
+      <p>• Active-Standby HA 구성 및 테스트</p>
+
+- layout: left
+  name: "FLIGHT SCHEDULE"
+  link: https://flight-lookup.vercel.app/
+  github: jum94kr/flight-lookup
+  quote: ""
+  description: >
+    API 연동 연습용 사이드 프로젝트로 React와 TypeScript를 활용하여 개발.<br><br>
+    <strong>기술 요소</strong><br>
+      <p>• 스타일 컴포넌트 기반 React UI</p>
+      <p>• API Hub 기반 항공편 정보 연동</p>
+      <p>• 재사용 가능한 컴포넌트 중심 설계</p>
